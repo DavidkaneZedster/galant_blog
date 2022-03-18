@@ -1,0 +1,26 @@
+.footer__navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__menu-list li {
+    display: inline;
+}
+
+.footer__menu-link:hover {
+    color: #7E9B49;
+    transition: 0.4s all ease;
+}
+
+.footer__menu-links {
+    margin-right: 30px;
+}
+
+.footer__contact {
+    display: inline-flex;
+}
+
+.footer__call {
+    margin-right: 30px;
+}
